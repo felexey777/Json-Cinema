@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">kinopoisk.kode.kolomatskiy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info_film">Подробная информация фильма</string>
+    <string name="deskription"></string>
+    <string name="title_activity_seances">Расписание сеансов</string>
+    <string name="seance"></string>
+    <string name="rating">Рейтинг: </string>
+    <string name="genre_view">Фильтр по жанрам</string>
+    <string name="city">Выбрать свой город</string>
+    <string name="genre">Жанр:</string>
+    <string-array name="genre">
+        <item>аниме</item>
+        <item>биографический</item>
+        <item>боевик</item>
+        <item>вестерн</item>
+        <item>военный</item>
+        <item>детектив</item>
+        <item>детский</item>
+        <item>документальный</item>
+        <item>драма</item>
+        <item>исторический</item>
+        <item>кинокомикс</item>
+        <item>комедия</item>
+        <item>концерт</item>
+        <item>короткометражный</item>
+        <item>криминал</item>
+        <item>мелодрама</item>
+        <item>мистика</item>
+        <item>музыка</item>
+        <item>мультфильм</item>
+        <item>мюзикл</item>
+        <item>научный</item>
+        <item>приключения</item>
+        <item>реалити-шоу</item>
+        <item>семейный</item>
+        <item>спорт</item>
+        <item>ток-шоу</item>
+        <item>триллер</item>
+        <item>ужасы</item>
+        <item>фантастика</item>
+        <item>фильм-нуар</item>
+        <item>фэнтези</item>
+        <item>эротика</item>
+    </string-array>
+    <string name="title_activity_genre_select">GenreSelect</string>
+    <string name="title_activity_city">City</string>
+    <string-array name="city">
+        <item>Калининград</item>
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+    </string-array>
+    <string name="take">Выбрать</string>
+    <string name="dev">Сейчас в разработке ... </string>
+
+
+</resources>

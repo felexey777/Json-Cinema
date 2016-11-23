@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tk.site_guru.kinopoiskkodekolomatskiy.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/city"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/genre"
+        android:orderInCategory="100"
+        android:title="@string/genre_view"
+        app:showAsAction="never" />
+</menu>
